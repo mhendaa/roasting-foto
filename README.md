@@ -15,7 +15,7 @@ Roasting Foto Gaul adalah aplikasi web yang bikin foto lo jadi bahan ledekan, ta
 
 ## 🛠️ Cara Pake
 
-1. Buka [Roasting Foto Gaul](https://link-ke-aplikasi-lo.com)
+1. Buka [Roasting Foto Gaul](#)
 2. Upload foto yang pengen lo roasting (jangan foto mantan ya, kasian)
 3. Pilih gaya roasting sesuai mood lo hari ini
 4. Klik "Roasting Fotonya, Bro!" dan tunggu kejutannya
